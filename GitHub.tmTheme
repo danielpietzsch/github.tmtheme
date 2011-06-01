@@ -18,7 +18,7 @@ caret                   #files .file .meta color
 invisibles              .syntax .w
 lineHighlight   #FFFEEB #files .file .private background-color
     alt:        #FFFFCC colour that gets added via javascript
-selection       #FFFFAA handmade :-)
+selection       #B4D5FE handmade :-)
     alt:        #FFFFCC colour that gets added via javascript
                 #EAF2F5 #header .userbox background-color
                 #EAEAEA #files .file background-color
@@ -38,7 +38,7 @@ selection       #FFFFAA handmade :-)
 				<key>lineHighlight</key>
 				<string>#FFFEEB</string>
 				<key>selection</key>
-				<string>#FFFFAA</string>
+				<string>#B4D5FE</string>
 			</dict>
 		</dict>
 		<dict>
